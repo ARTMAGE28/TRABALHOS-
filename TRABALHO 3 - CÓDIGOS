@@ -1,0 +1,46 @@
+As distinções entre as linguagens de programação Ruby, Python e JavaScript são significativas e abrange uma variedade de aspectos, desde a sintaxe até sua finalidade e aplicação. 
+
+Ruby é uma linguagem de programação dinâmica e de código aberto, conhecida por sua simplicidade e facilidade de leitura. É uma  linguagem que executa tarefas em tempo de execução, permitindo maior flexibilidade 
+e interatividade e o código-fonte da linguagem está disponível para visualização, modificação e distribuição pela comunidade. Outrossim, é amplamente adotada no desenvolvimento web e favorecida pelos 
+desenvolvedores devido à sua elegância e maleabilidade. Além disso, é fortemente associada ao framework Ruby on Rails, utilizado extensivamente na criação de aplicativos web.
+
+ Código mínimo executado: 
+a = 1
+b = 10
+c = -8
+puts(a + c)
+
+Link: 
+
+Python é uma linguagem de programação de alto nível, que se destaca pela sua clareza e legibilidade. Fica claro que é uma linguagem que é mais próxima da linguagem humana e mais distante da linguagem de máquina, 
+facilitando a escrita e compreensão do código. A linguagem tem um código fácil de entender e interpretar, o que a torna acessível para iniciantes. A Python também é empregada em uma ampla gama de aplicações, desde o
+desenvolvimento web até análise de dados e inteligência artificial. Possui uma comunidade de desenvolvedores bem grande e uma vasta biblioteca de módulos que facilitam o desenvolvimento de diferentes projetos. 
+
+Código mínimo executado: 
+
+print("Bom dia!")
+X = "Tenha"
+y = "um"
+z = "bom dia"
+print(X, y, z)
+
+Link: 
+
+JavasScript é uma linguagem de programação de alto nível, largamente utilizada no desenvolvimento web. Constitui a principal linguagem para criar interatividade em páginas web e é suportada por todos os principais 
+navegadores. Além disso, é frequentemente empregada em conjunto com HTML e CSS para criar páginas web dinâmicas e responsivas. Recentemente, sua utilização tem se expandido para o desenvolvimento de aplicativos 
+móveis e de servidores, graças ao advento de plataformas como o Node.js. Em suma, cada uma dessas linguagens possui características distintas e aplicações específicas. 
+
+Código mínimo executado: 
+
+const message = 'Bom dia, professor! Tenha uma boa semana :)' // Try edit me
+
+// Update header text
+document.querySelector('#header').innerHTML = message
+
+// Log to console
+console.log(message)
+
+Link: 
+
+Em resumo, cada uma dessas linguagens possui características distintas e aplicações específicas, com o JavaScript sendo fundamental para a criação de interatividade em páginas web e expandindo seu uso para além 
+do frontend, enquanto Ruby é mais comumente usada no desenvolvimento web e Python é valorizada por sua versatilidade e facilidade de aprendizado.
