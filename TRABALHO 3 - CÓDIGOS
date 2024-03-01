@@ -10,7 +10,7 @@ b = 10
 c = -8
 puts(a + c)
 
-Link: 
+Link: https://github.com/ARTMAGE28/TRABALHOS-/blob/main/RUBY.pdf
 
 Python é uma linguagem de programação de alto nível, que se destaca pela sua clareza e legibilidade. Fica claro que é uma linguagem que é mais próxima da linguagem humana e mais distante da linguagem de máquina, 
 facilitando a escrita e compreensão do código. A linguagem tem um código fácil de entender e interpretar, o que a torna acessível para iniciantes. A Python também é empregada em uma ampla gama de aplicações, desde o
@@ -24,7 +24,7 @@ y = "um"
 z = "bom dia"
 print(X, y, z)
 
-Link: 
+Link: https://github.com/ARTMAGE28/TRABALHOS-/blob/main/RUBY.pdf
 
 JavasScript é uma linguagem de programação de alto nível, largamente utilizada no desenvolvimento web. Constitui a principal linguagem para criar interatividade em páginas web e é suportada por todos os principais 
 navegadores. Além disso, é frequentemente empregada em conjunto com HTML e CSS para criar páginas web dinâmicas e responsivas. Recentemente, sua utilização tem se expandido para o desenvolvimento de aplicativos 
@@ -40,7 +40,7 @@ document.querySelector('#header').innerHTML = message
 // Log to console
 console.log(message)
 
-Link: 
+Link: https://github.com/ARTMAGE28/TRABALHOS-/blob/main/RUBY.pdf
 
 Em resumo, cada uma dessas linguagens possui características distintas e aplicações específicas, com o JavaScript sendo fundamental para a criação de interatividade em páginas web e expandindo seu uso para além 
 do frontend, enquanto Ruby é mais comumente usada no desenvolvimento web e Python é valorizada por sua versatilidade e facilidade de aprendizado.
