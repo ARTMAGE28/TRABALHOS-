@@ -39,4 +39,4 @@ def imprimir_vogais(palavra):
 palavra = "implementacao de algoritmos"
 imprimir_vogais(palavra)
 
-*Link da execução dos códigos:
+*Link da execução dos códigos: https://github.com/ARTMAGE28/TRABALHOS-/blob/main/TRABALHO%20DE%20PROGRAMA%C3%87%C3%83O%20-%20SEMANA%205%20(PDF).pdf
