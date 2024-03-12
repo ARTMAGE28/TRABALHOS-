@@ -1,0 +1,42 @@
+1 – implemente o algoritmo de ordenação Bubble Sort usando python;
+
+Código utilizado: 
+def bubble_sort(arr):
+    n = len(arr)
+    
+    for i in range(n):
+        # Flag para indicar se houve trocas nesta iteração
+        swapped = False
+        
+        for j in range(0, n-i-1):
+            # Troca se o elemento atual for maior que o próximo
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+                swapped = True
+        
+        # Se nenhuma troca foi feita, o array está ordenado
+        if not swapped:
+            break
+    
+    return arr
+
+# Exemplo de uso
+arr = [64, 34, 25, 12, 22, 11, 90]
+sorted_arr = bubble_sort(arr)
+print("Array ordenado:", sorted_arr)
+
+2 – implemente um algorítimo que imprima apenas as vogais de uma determinada palavra ou frase.
+
+Código utilizado: 
+
+def imprimir_vogais(palavra):
+    vogais = "aeiouAEIOU"
+    vogais_encontradas = [letra for letra in palavra if letra in vogais]
+    for vogal in vogais_encontradas:
+        print(vogal)
+
+# Exemplo de uso
+palavra = "implementacao de algoritmos"
+imprimir_vogais(palavra)
+
+*Link da execução dos códigos:
