@@ -7,7 +7,7 @@ print("Tabuada do", num)
 for i in range(1, 8):
     print(num, "x", i, "=", num * i)
 
-Link: 
+Link: https://github.com/ARTMAGE28/TRABALHOS-/blob/main/organized.pdf
 
 2. Estrutura de tomada de decisão
 
@@ -21,3 +21,4 @@ elif idade >= 18 and idade < 65:
     print("Você é um adulto.")
 else:
     print("Você é um idoso.")
+link: https://github.com/ARTMAGE28/TRABALHOS-/blob/main/organized.pdf
